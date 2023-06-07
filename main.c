@@ -7,9 +7,6 @@
 
 
 #include "application/application.h"
-#include "mcal/gpio/gpio.h"
-#include "ecual/led/led.h"
-#include "ecual/push_button/push_button.h"
 
 int main() {
     (void)APP_init();

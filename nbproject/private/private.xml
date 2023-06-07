@@ -4,15 +4,10 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/home/khaled/projects/avr-blinky.X/mcal/gpio/gpio.h</file>
-            <file>file:/home/khaled/projects/avr-blinky.X/application/application.h</file>
-            <file>file:/home/khaled/projects/avr-blinky.X/mcal/gpio/gpio_private.h</file>
-            <file>file:/home/khaled/projects/avr-blinky.X/ecual/led/led.h</file>
             <file>file:/home/khaled/projects/avr-blinky.X/application/application.c</file>
-            <file>file:/home/khaled/projects/avr-blinky.X/ecual/push_button/push_button.h</file>
             <file>file:/home/khaled/projects/avr-blinky.X/mcal/gpio/gpio.c</file>
             <file>file:/home/khaled/projects/avr-blinky.X/ecual/led/led.c</file>
             <file>file:/home/khaled/projects/avr-blinky.X/main.h</file>
-            <file>file:/home/khaled/projects/avr-blinky.X/ecual/push_button/push_button.c</file>
             <file>file:/home/khaled/projects/avr-blinky.X/main.c</file>
         </group>
     </open-files>
